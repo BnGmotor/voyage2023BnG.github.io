@@ -122,7 +122,7 @@ p {
     top: -50px;
 }
 
-#restaurant-button, #ycs-button, #decouverte-button, #best-place-button {
+#restaurant-button, #semaine4-button, #decouverte-button, #best-place-button {
     background-color: #333;
     color: #fff;
     border: 2px solid transparent;
@@ -154,7 +154,7 @@ p {
     margin-bottom: 50px;
 }
 
-#restaurant-button:hover, #ycs-button:hover, #decouverte-button:hover, #best-place-button:hover {
+#restaurant-button:hover, #semaine4-button:hover, #decouverte-button:hover, #best-place-button:hover {
     background-color: #727272;
 }
 
