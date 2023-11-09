@@ -22,11 +22,11 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 
-    const ycsButton = document.getElementById("ycs-button");
-    ycsButton.addEventListener("click", function () {
-        const ycsImage = document.querySelector('img[src*="YCS.jpg"]');
-        if (ycsImage) {
-            ycsImage.scrollIntoView({ behavior: "smooth" });
+    const semaine4Button = document.getElementById("semaine4-button");
+    semaine4Button.addEventListener("click", function () {
+        const semaine4Image = document.querySelector('img[src*="SEMAINE4.jpg"]');
+        if (semaine4Image) {
+            semaine4Image.scrollIntoView({ behavior: "smooth" });
         }
     });
 
