@@ -181,6 +181,11 @@ p {
         overflow-x: hidden;
         max-width: 100%;
     }
+    h1 {
+    font-size: 24px;
+    text-align: center;
+    color: red;
+    }
 
     .horizontal-bar {
         margin-top: 0;
