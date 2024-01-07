@@ -12,7 +12,6 @@ body {
 
 h1 {
     font-size: 24px;
-    text-align: center;
     color: rgb(223 , 175 , 44);
 }
 
@@ -20,7 +19,7 @@ p {
     font-size: 12px;
     margin: 10px;
     margin-bottom: 20px;
-    text-align: center;
+    text-align: 33%;
 }
 
 #gallery {
@@ -181,9 +180,9 @@ p {
         overflow-x: hidden;
         max-width: 100%;
     }
+    
     h1 {
     font-size: 24px;
-    text-align: center;
     color: red;
     }
 
