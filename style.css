@@ -20,7 +20,7 @@ p {
     margin: 10px;
     margin-bottom: 20px;
     text-align: center;
-    margin-left: 33%;
+    margin-left: screen-size/2;
 }
 
 #gallery {
