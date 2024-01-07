@@ -21,7 +21,7 @@ p {
     margin: 10px;
     margin-bottom: 20px;
     text-align: center;
-    margin-left: screen-size/2;
+    width: 33%;
 }
 
 #gallery {
