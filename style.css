@@ -37,10 +37,10 @@ p {
  
 #gallery img {
     max-width: 100%;
-    height: auto;
     margin: 10px;
     margin-top: 20px;
     max-width: 350px;
+    max-height: 400px;
 }
  
 .horizontal-bar {
