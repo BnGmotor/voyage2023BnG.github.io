@@ -30,6 +30,8 @@ p {
     align-items: center;
     margin-top: 20px;
     flex: 0 0 calc(33.33% - 100px);
+    margin-left:100px;
+    margin-right:100px;
 
 }
  
@@ -38,6 +40,8 @@ p {
     margin-top: 20px;
     max-width: 350px;
     max-height: 400px;
+    margin-left:100px;
+    margin-right:100px;
 }
  
 .horizontal-bar {
