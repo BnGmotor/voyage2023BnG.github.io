@@ -29,7 +29,7 @@ p {
     justify-content: center;
     align-items: center;
     margin-top: 20px;
-    flex: 0 0 calc(33.33% - 20px);
+    flex: 0 0 calc(33.33% - 100px);
 
 }
  
